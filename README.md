@@ -40,3 +40,9 @@ We believe in **open source** and solutions grounded in **African realities**. E
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6600,100:FF8C00&height=2&section=header" width="50%"/>
+
+</div>
