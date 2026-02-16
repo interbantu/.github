@@ -43,35 +43,6 @@ We believe in **open source** and solutions grounded in **African realities**. W
 </table>
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-**What We Do**
-
-🤖 Conversational AI
-<br/>
-📊 Data-Driven Intelligence
-<br/>
-⚡ Smart Automation
-
-</td>
-<td align="center" width="50%">
-
-**Our Focus**
-
-🎯 Impact Solutions
-<br/>
-🔓 Open Source
-<br/>
-🌍 Africa Focus
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6600,100:FF8C00&height=2&section=header" width="50%"/>
 
