@@ -35,11 +35,13 @@
 <tr>
 <td>
 
-### About Us
+### Who We Are
 
-**Interbantu** is a technology startup based in Mozambique, founded in 2024. We focus on **Artificial Intelligence**, **software**, and **data impact** projects that solve real problems. Our commitment goes beyond developing technology — we work to create solutions that make a real difference in people's lives.
+**Interbantu** is a technology startup from Mozambique, founded in 2024. We build **AI-powered software** and **data solutions** that address real challenges — not hypothetical ones. Our work goes beyond code: we create tools that improve how people live and work.
 
-We are deeply involved in **open source** initiatives, building open, collaborative, and accessible solutions that strengthen the African technology ecosystem. We believe that knowledge should be shared and that together we can build a better future.
+We believe innovation must solve real problems, and **data is the foundation** for any meaningful transformation. Every project we develop is built on accurate, relevant data — because with reliable data, we create reliable solutions.
+
+We are committed to **open source**: sharing knowledge, building collaboratively, and strengthening the African technology ecosystem. Together, we can build a better future.
 
 </td>
 </tr>
@@ -52,27 +54,37 @@ We are deeply involved in **open source** initiatives, building open, collaborat
 
 **What We Do**
 
-🤖 &nbsp;Conversational AI — Talk to your data
+🤖 &nbsp;**Conversational AI** — Applications that understand natural language and talk to your data
 <br/><br/>
-📊 &nbsp;Data-Driven Intelligence — Transform data into actionable insights
+📊 &nbsp;**Data-Driven Intelligence** — Turn information into actionable insights that drive decisions
 <br/><br/>
-⚡ &nbsp;Smart Automation — Automate processes with AI
+⚡ &nbsp;**Smart Automation** — AI that adapts, learns, and automates complex processes
 
 </td>
 <td align="center" width="50%">
 
-**Our Pillars**
+**What Drives Us**
 
-🎯 &nbsp;Impact Solutions — Projects that change lives
+🎯 &nbsp;**Impact** — Real projects that change lives and solve concrete problems
 <br/><br/>
-🔓 &nbsp;Open Source — Collaborative, transparent innovation
+🔓 &nbsp;**Open Source** — Transparent, collaborative innovation for the community
 <br/><br/>
-🌍 &nbsp;Africa Focus — Solutions for African realities
+🌍 &nbsp;**Africa Focus** — Solutions born from local contexts and African realities
 
 </td>
 </tr>
 </table>
 </div>
+
+<table>
+<tr>
+<td align="center">
+
+*"At Interbantu, progress is born from reality — not from perfection."*
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -84,7 +96,7 @@ We are deeply involved in **open source** initiatives, building open, collaborat
 
 [![IB Estrada Responde](https://img.shields.io/badge/IB_Estrada_Responde-Chatbot_AI-FF6600?style=for-the-badge&logo=python&logoColor=white)](https://github.com/interbantu/IB_ESTRADA_RESPONDE)
 
-<sub>Intelligent chatbot for Mozambique Road Code and traffic legislation.</sub>
+<sub>AI chatbot that answers questions about Mozambique Road Code and traffic legislation — making legal information accessible to everyone.</sub>
 
 <br/><br/>
 
