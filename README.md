@@ -1,102 +1,44 @@
 <!-- Header -->
 <a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6600,100:FF8C00&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6600,100:FF8C00&height=100&section=header"/>
 </a>
 
 <div align="center">
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6600&size=24&center=true&vCenter=true&width=900&duration=5000&pause=1500&lines=The+next+African+revolution+will+be+driven+by+data;More+than+perfect,+real+stories,+real+impact;Building+AI+for+Real+Impact)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6600&size=26&center=true&vCenter=true&width=500&duration=4000&pause=1000&lines=The+next+African+revolution+will+be+driven+by+data;More+than+perfect,+real+stories,+real+impact)](#)
 
-**Technology startup based in Mozambique**
+<br/>
+
+**Technology startup · Mozambique · AI & Data**
 
 <sub>With reliable data, we create reliable solutions.</sub>
 
-<br/>
-
-[![Website](https://img.shields.io/badge/Website-interbantu.com-FF6600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://interbantu.com)
-&nbsp;
-[![Blog](https://img.shields.io/badge/Blog-Interbantu-FF8C00?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.chivambo.interbantu.com/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Interbantu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/interbantu)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-hello%40interbantu.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@interbantu.com)
-&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-Interbantu-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@interbantu)
-
-<br/>
-
-</div>
-
-<!-- About -->
-
-<table>
-<tr>
-<td>
-
-### Who We Are
-
-**Interbantu** is a technology startup from Mozambique, founded in 2024. We build **AI-powered software** and **data solutions** that address real challenges — not hypothetical ones. Our work goes beyond code: we create tools that improve how people live and work.
-
-We believe innovation must solve real problems, and **data is the foundation** for any meaningful transformation. Every project we develop is built on accurate, relevant data — because with reliable data, we create reliable solutions.
-
-We are committed to **open source**: sharing knowledge, building collaboratively, and strengthening the African technology ecosystem. Together, we can build a better future.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-**What We Do**
-
-🤖 &nbsp;**Conversational AI** — Applications that understand natural language and talk to your data
 <br/><br/>
-📊 &nbsp;**Data-Driven Intelligence** — Turn information into actionable insights that drive decisions
+
+[![Website](https://img.shields.io/badge/Website-FF6600?style=flat-square&logo=googlechrome&logoColor=white)](https://interbantu.com)
+[![Blog](https://img.shields.io/badge/Blog-FF8C00?style=flat-square&logo=hashnode&logoColor=white)](https://blog.chivambo.interbantu.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/interbantu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@interbantu.com)
+
 <br/><br/>
-⚡ &nbsp;**Smart Automation** — AI that adapts, learns, and automates complex processes
 
-</td>
-<td align="center" width="50%">
-
-**What Drives Us**
-
-🎯 &nbsp;**Impact** — Real projects that change lives and solve concrete problems
-<br/><br/>
-🔓 &nbsp;**Open Source** — Transparent, collaborative innovation for the community
-<br/><br/>
-🌍 &nbsp;**Africa Focus** — Solutions born from local contexts and African realities
-
-</td>
-</tr>
-</table>
-</div>
-
-<table>
-<tr>
-<td align="center">
-
-*"At Interbantu, progress is born from reality — not from perfection."*
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6600,100:FF8C00&height=1&section=header" width="60%"/>
+---
 
 <br/>
 
-#### Featured Projects
+**Interbantu** builds AI and data solutions for real problems. We focus on impact, open source, and solutions grounded in African realities.
 
-[![IB Estrada Responde](https://img.shields.io/badge/IB_Estrada_Responde-Chatbot_AI-FF6600?style=for-the-badge&logo=python&logoColor=white)](https://github.com/interbantu/IB_ESTRADA_RESPONDE)
+<br/>
 
-<sub>AI chatbot that answers questions about Mozambique Road Code and traffic legislation — making legal information accessible to everyone.</sub>
+![Impact](https://img.shields.io/badge/Impact-FF6600?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source-FF8C00?style=for-the-badge)
+![Africa Focus](https://img.shields.io/badge/Africa_Focus-FF6600?style=for-the-badge)
+
+<br/><br/>
+
+[![IB Estrada Responde](https://img.shields.io/badge/IB_Estrada_Responde-Chatbot_AI-FF8C00?style=flat-square&logo=github&logoColor=white)](https://github.com/interbantu/IB_ESTRADA_RESPONDE)
 
 <br/><br/>
 
@@ -104,5 +46,5 @@ We are committed to **open source**: sharing knowledge, building collaboratively
 
 <!-- Footer -->
 <a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6600,100:FF8C00&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6600,100:FF8C00&height=100&section=footer"/>
 </a>
