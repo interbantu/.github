@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6600&size=28&center=true&vCenter=true&width=700&duration=4500&pause=1200&lines=The+next+African+revolution+will+be+driven+by+data;More+than+perfect,+real+stories,+real+impact)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6600&size=22&center=true&vCenter=true&width=950&duration=5000&pause=1500&lines=The+next+African+revolution+will+be+driven+by+data;More+than+perfect,+real+stories,+real+impact)](#)
 
 **Technology startup based in Mozambique**
 
