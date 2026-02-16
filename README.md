@@ -27,8 +27,16 @@
 
 </div>
 
+<table>
+<tr>
+<td>
+
 ### About Us
 
 **Interbantu** is a technology startup from Mozambique. We build AI-powered software and data solutions that solve real problems — our commitment goes beyond technology to create tools that make a real difference in people's lives.
 
-We believe in **open source** and solutions grounded in **African realities**. With reliable data, we create reliable solutions.
+We believe in **open source** and solutions grounded in **African realities**. Every project is built on accurate, relevant data — because with reliable data, we create reliable solutions.
+
+</td>
+</tr>
+</table>
