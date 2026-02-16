@@ -17,8 +17,6 @@
 
 [![Website](https://img.shields.io/badge/Website-interbantu.com-FF6600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://interbantu.com)
 &nbsp;
-[![Blog](https://img.shields.io/badge/Blog-Interbantu-FF8C00?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.chivambo.interbantu.com/)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Interbantu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/interbantu)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-hello%40interbantu.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@interbantu.com)
