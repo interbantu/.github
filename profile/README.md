@@ -86,8 +86,3 @@ We believe in **open source** and solutions grounded in **African realities**. W
 <br/>
 
 </div>
-
-<!-- Footer -->
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6600,100:FF8C00&height=120&section=footer"/>
-</a>
