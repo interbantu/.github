@@ -41,19 +41,3 @@ We believe in **open source** and solutions grounded in **African realities**. W
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6600,100:FF8C00&height=2&section=header" width="50%"/>
-
-<br/>
-
-**Featured Project**
-
-[![IB Estrada Responde](https://img.shields.io/badge/IB_Estrada_Responde-Chatbot_AI-FF6600?style=for-the-badge&logo=github&logoColor=white)](https://github.com/interbantu/IB_ESTRADA_RESPONDE)
-
-<sub>AI chatbot for Mozambique Road Code and traffic legislation</sub>
-
-<br/>
-
-</div>
