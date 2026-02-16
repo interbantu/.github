@@ -34,7 +34,7 @@
 
 ### About Us
 
-**Interbantu** is a technology startup from Mozambique, founded in 2024. We build AI-powered software and data solutions that solve real problems. Our commitment goes beyond technology — we create tools that make a real difference in people's lives.
+**Interbantu** is a technology startup from Mozambique. We build AI-powered software and data solutions that solve real problems — our commitment goes beyond technology to create tools that make a real difference in people's lives.
 
 We believe in **open source** and solutions grounded in **African realities**. With reliable data, we create reliable solutions.
 
